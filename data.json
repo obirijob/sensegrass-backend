@@ -1,0 +1,25 @@
+{
+  "basicSensor": [
+    {
+      "label": "Co2 Aeration",
+      "unit": "mg/l",
+      "value": 36,
+      "idealRange": "0-80",
+      "max": 80
+    },
+    { "label": "Light", "unit": "lux", "value": 82, "idealRange": "0-80", "max": 100 },
+    { "label": "pH", "unit": "PH", "value": 4, "idealRange": "0-80", "max": 7 },
+    { "label": "EC", "unit": "mg/L", "value": 7, "idealRange": "0-80", "max": 50 },
+    { "label": "Soil Moisture", "unit": "%", "value": 98, "idealRange": "0-80" , "max": 100},
+    { "label": "Soil Temp", "unit": "°C", "value": 35, "idealRange": "0-80", "max": 100 },
+    { "label": "Salinity", "unit": "ds/M", "value": 43, "idealRange": "0-80", "max": 100 }
+  ],
+  "status": "online",
+  "battery": 92,
+  "macId": 1102100,
+  "precipitation": { "intensity": "81", "probability": "81" },
+  "pressure": "102bar",
+  "windSpeed": "4.87 km/hr",
+  "windDirection": "40.8° N"
+
+}
